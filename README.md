@@ -1,4 +1,4 @@
-# Sales Analysis - Power BI  
+# Sales Dashboard
 
 🚧 **This project is still in progress** 🚧  
 
